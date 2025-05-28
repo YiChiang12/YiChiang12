@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, SQL, Algorithm Design**
 
-- 📫 How to reach me **yichiang@ucdavis.edu**
+- 📫 How to reach me **yc2933@cornell.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
