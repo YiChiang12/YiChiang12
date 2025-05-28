@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://YiChiang12.io)
 <h1 align="center">Hi 👋, I'm Yi-Hsuan Chiang</h1>
-<h3 align="center">A passionate third-year Computer Science major student at UC Davis</h3>
+<h3 align="center">Graduate student in Information Systems (Cornell Tech, Health Tech) & Applied Information Science (Technion) | B.S. in Computer Science, UC Davis</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <!-- - 🔭 I’m currently working on **Mental Health Chatbot** -->
