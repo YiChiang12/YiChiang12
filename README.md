@@ -7,7 +7,6 @@ First-year M.S. student in Information Systems at Cornell Tech (Health Tech conc
 B.S. in Computer Science from UC Davis<br>
 Passionate about data-driven problem solving, human-centered design, and tech for good
 </p> 
-
 -->
 
 <p align="center">
