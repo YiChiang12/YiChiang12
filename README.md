@@ -28,7 +28,7 @@ Passionate about data-driven problem solving, human-centered design, and tech fo
 
 - 📊 I enjoy exploring **data visualization, usability research, and analytics tools** 
 
-- 📫 How to reach me **yc2933@cornell.edu**
+- 📫 How to reach me: **yc2933@cornell.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
