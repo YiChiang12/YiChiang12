@@ -10,7 +10,7 @@ Passionate about data-driven problem solving, human-centered design, and tech fo
 -->
 
 <p align="center">
-First-year M.S. student at Cornell (Information Systems, Health Tech)<br>
+First-year M.S. student at Cornell (Information Systems, Health Tech concentration)<br>
 B.S. in Computer Science from UC Davis<br>
 Passionate about data-driven problem solving, human-centered design, and tech for good
 </p>
