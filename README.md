@@ -1,5 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://YiChiang12.io)
 <h1 align="center">Hi 👋, I'm Yi-Hsuan (Tiffany) Chiang</h1>
+
 <!-- 
 <h3 align="center">M.S. student at Cornell (Info Systems, Health Tech) | B.S. CS, UC Davis | Passionate about tech for good</h3> 
 <p align="center">
@@ -17,11 +18,15 @@ Passionate about data-driven problem solving, human-centered design, and tech fo
 
 <img align="right" alt="Coding" width="400" height="300" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
+
 <!-- - 🔭 I’m currently working on **Mental Health Chatbot** -->
+
 
 - 🔭 I recently completed a project on a **Mental Health Crisis Intervention Chatbot**
 
+
 <!-- - 🌱 I’m currently learning **AI and Neural Network** -->
+
 
 - 🌱 I’m currently learning **AI, neural networks, and data analysis pipelines**  
 
@@ -32,8 +37,10 @@ Passionate about data-driven problem solving, human-centered design, and tech fo
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/yhsuan-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yhsuan-c" height="30" width="40" /></a>
-  
+
+
 <!-- <a href="https://instagram.com/_tiffany_xuan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tiffany_xuan_" height="30" width="40" /></a> -->
+
 
 </p>
 
